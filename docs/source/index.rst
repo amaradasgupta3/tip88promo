@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+TIP88 - Nơi Bạn Là Vị Vua Trong Thế Giới Giải Trí
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`TIP88 <https://tip88.promo/>`_ là nền tảng chơi game hàng đầu, cung cấp không gian giải trí đẳng cấp với Thể Thao, Game Bài Đổi Thưởng, Live Casino, Lô Đề và nhiều trò chơi hấp dẫn khác. Được cấp phép hợp pháp bởi Curacao, TIP88 cam kết minh bạch, an toàn và đáng tin cậy. Sở hữu hơn 15.000 tựa game từ 38 nhà phát triển, TIP88 mang đến trải nghiệm chơi game đỉnh cao, Live Casino chân thực và hệ thống giao dịch nhanh chóng, bảo mật. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Hợp tác với các đối tác uy tín như B52, iWin, RIK.VIP, Saba, Pragmatic, TIP88 đảm bảo đồ họa ấn tượng, âm thanh sống động và tỷ lệ thắng cao. Với đội ngũ hỗ trợ 24/7 cùng hàng loạt khuyến mãi hấp dẫn, TIP88 không ngừng nâng cao chất lượng dịch vụ, mang lại niềm vui chiến thắng cho người chơi trong một không gian giải trí sang trọng.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 1850 Võ Văn Kiệt, An Lạc, Bình Tân, Hồ Chí Minh 289851, Việt Nam. 
 
-Contents
---------
+Phone: 0370221140. 
 
-.. toctree::
+Email: info@tip88.promo. 
 
-   usage
-   api
+Website: https://tip88.promo/
+
+#tip88 #trangchutip88 #dangkytip88 #dangnhaptip88 #linktip88
